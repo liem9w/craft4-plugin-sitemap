@@ -1,6 +1,10 @@
-# XML-sitemap plugin for Craft CMS 3
+# XML-sitemap plugin for Craft CMS 4
 
-Craft 3 plugin that provides an easy way to enable and manage a XML sitemap for search engines like Google and Bing
+Craft 4 plugin that provides an easy way to enable and manage a XML sitemap for search engines like Google and Bing.
+
+This is a fork from [dolphiq/sitemap](https://github.com/Dolphiq/craft3-plugin-sitemap)
+
+Thanks [Dolphiq](https://dolphiq.nl)
 
 ![Screenshot](resources/screenshots/screenshot1.png)
 
@@ -29,7 +33,7 @@ In version 1.0.9 we added support for alternate languages to give [Google a bett
 ```
 ## Requirements
 
-This plugin requires Craft CMS 3.2 or later.
+This plugin requires Craft CMS 4.0.0 or later.
 
 ## Installation
 
@@ -41,7 +45,7 @@ To install the plugin, follow these instructions.
 
 2. Then tell Composer to load the plugin:
 
-        composer require dolphiq/sitemap
+        composer require 9thwonder/sitemap
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for XML sitemap.
 
