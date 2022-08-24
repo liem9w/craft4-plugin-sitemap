@@ -1,8 +1,8 @@
 {
     "name": "9thwonder/sitemap",
-    "description": "Craft 3 plugin that provides an easy way to provide and manage a XML sitemap for search engines like Google and Bing",
+    "description": "Craft 4 plugin that provides an easy way to provide and manage a XML sitemap for search engines like Google and Bing",
     "type": "craft-plugin",
-    "version": "1.3.2",
+    "version": "2.0.0",
     "keywords": [
         "craft",
         "cms",
@@ -39,7 +39,7 @@
     "extra": {
         "name": "XML Sitemap",
         "handle": "sitemap",
-        "schemaVersion": "1.0.2",
+        "schemaVersion": "2.0.0",
         "developer": "Dolphiq",
         "developerUrl": "https://dolphiq.nl/",
         "hasCpSettings": true,
