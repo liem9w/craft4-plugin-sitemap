@@ -23,7 +23,8 @@
     ],
     "require": {
         "craftcms/cms": "^4.0.0",
-        "jaybizzle/crawler-detect": "1.*"
+        "jaybizzle/crawler-detect": "1.*",
+        "dolphiq/sitemap": "dev-craft-4x"
     },
     "repositories": [
         {
